@@ -28,14 +28,22 @@ Government of Gujarat
 
 ## Technology Stack
 Node.js
+
 React.js
+
 MongoDB
+
 JWT Token
+
 Stripe
+
 Google Maps API
+
 Sendgrid
 
 ## Dependencies
 Mapping service - 10 days
+
 Data Collection - 20 days
+
 Budget - Rs.30,000
