@@ -21,11 +21,12 @@ Government of Gujarat
 5.AlumniInsights: It is a platform that provides a unified view of alumni data, enabling data-driven decision-making and strategic engagement initiatives. This platform offers valuable insights into alumni behavior, preferences, and demographics. By analyzing these trends and patterns, the university can tailor its outreach efforts and create more effective engagement strategies.
 
 ## Proposed Solution / Architecture Diagram
-![alt text](dharsheni/sihapp/flowchart.png)
+![alt text](flowchart.png)
+
 
 
 ## Use Cases
-![alt text](dharsheni/sihapp/usecase.png)
+![alt text](usecase.png)
 
 
 
